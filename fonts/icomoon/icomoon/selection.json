@@ -7310,7 +7310,7 @@
 				"attrs": [],
 				"isMulticolor": false,
 				"tags": [
-					"HTML5 "
+					"html5"
 				],
 				"defaultCode": 61755,
 				"grid": 14
@@ -7321,7 +7321,7 @@
 				"order": 799,
 				"prevSize": 14,
 				"code": 61755,
-				"name": "HTML5 "
+				"name": "html5"
 			},
 			"setIdx": 0,
 			"setId": 4,
